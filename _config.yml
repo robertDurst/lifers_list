@@ -1,0 +1,8 @@
+plugins:
+  - jekyll-maps
+
+maps:
+  google:
+    api_key: $GOOGLE_MAPS_API_KEY
+    marker_cluster:
+      enabled: false
