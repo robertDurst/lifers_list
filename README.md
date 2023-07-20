@@ -12,7 +12,7 @@ At some point, this will be a fun, interactive website with photos. For now, a m
 |06 | Southern Ring neck                | Key Biscayne & Everglades, FL                | Ring necks                    | 2021           |
 |07 | Pacific Ring neck                 | Bay Area, CA                                 | Ring necks                    | 2020           |
 |08 | Prarie Ring neck                  | Oswego, Kansas                               | Ring necks                    | 2022           |
-|09 | Western Yellow-bellied Racer      | Bay Area, CA                                 | Racers                        | 2020           |
+|09 | Western Yellow-bellied Racer      | Bay Area, CA, Salt Lake City, UT             | Racers                        | 2020           |
 |10 | Black Racer                       | OkeeChobee & Everglades, FL                  | Racers                        | 2021           |
 |11 | Pacific Gophersnake               | Bay Area, FL                                 | Gopher & Rat snakes           | 2020           |
 |12 | Great Basin Gophersnake           | Death Valley, CA                             | Gopher & Rat snakes           | 2020           |
