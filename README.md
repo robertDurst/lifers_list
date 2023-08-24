@@ -15,7 +15,7 @@ At some point, this will be a fun, interactive website with photos. For now, a m
 |09 | Western Yellow-bellied Racer      | Bay Area, CA, Salt Lake City, UT             | Racers                        | 2020           |
 |10 | Black Racer                       | OkeeChobee & Everglades, FL                  | Racers                        | 2021           |
 |11 | Pacific Gophersnake               | Bay Area, FL                                 | Gopher & Rat snakes           | 2020           |
-|12 | Great Basin Gophersnake           | Death Valley, CA                             | Gopher & Rat snakes           | 2020           |
+|12 | Great Basin Gophersnake           | Death Valley, CA, Beaver Dam Wash National Conservation Area, UT                             | Gopher & Rat snakes           | 2020           |
 |13 | Yellow Ratsnake                   | Everglades, FL                               | Gopher & Rat snakes           | 2021           |
 |14 | Eastern Ratsnake                  | Everglades, FL                               | Gopher & Rat snakes           | 2021           |
 |15 | Western Ratsnake                  | Oswego, KS                                   | Gopher & Rat snakes           | 2022           |
@@ -29,8 +29,8 @@ At some point, this will be a fun, interactive website with photos. For now, a m
 |23 | California Red-Sided Gartersnake  | Bay Area, CA                                 | Gartersnakes                  | 2020           |
 |24 | Eastern Common Gartersnake        | OkeeChobee & Everglades, FL & Salisbury, VT  | Gartersnakes                  | 2021           |
 |25 | Pacific Range Gartersnake         | Bay Area, CA                                 | Gartersnakes                  | 2020           |
-|26 | Long-nosed snake                  | Joshua Tree, CA                              | ???                           | 2020           |
-|27 | Northern Deser Nightsnake         | Death Valley & Joshua Tree, CA               | ???                           | 2020           |
+|26 | Long-nosed snake                  | Joshua Tree, CA, Beaver Dam Wash National Conservation Area, UT  | ???                           | 2020           |
+|27 | Northern Desert Nightsnake        | Death Valley & Joshua Tree, CA               | ???                           | 2020           |
 |28 | Mohave Desert Shovel-nosed        | Death Valley & Joshua Tree, CA               | ???                           | 2020           |
 |29 | Colorado Desert Shovel-nosed      | Death Valley & Joshua Tree, CA               | ???                           | 2020           |
 |30 | Desert Glossy snake               | Joshua Tree, CA                              | ???                           | 2020           |
