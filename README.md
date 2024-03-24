@@ -60,6 +60,7 @@ At some point, this will be a fun, interactive website with photos. For now, a m
 |54 | Clouded snail eating snake        | Drake Bay, Costa Rica                        | ???                           | 2022           |
 |55 | Allen's Coral snake               | Rancho Quemado, Costa Rica                   | Coralsnakes                   | 2022           |
 |56 | Midget Faded Rattlesnake          | Arches National Park, UT                     | Rattlesnakes                  | 2023           |
+|57 | Puerto Rican Racer                | Maricao Forrest, Puerto Rico                 | Racers                        | 2024           |
 
 ***
 
