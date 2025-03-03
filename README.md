@@ -62,6 +62,7 @@ At some point, this will be a fun, interactive website with photos. For now, a m
 |56 | Midget Faded Rattlesnake          | Arches National Park, UT                     | Rattlesnakes                  | 2023           |
 |57 | Puerto Rican Racer                | Maricao Forrest, Puerto Rico                 | Racers                        | 2024           |
 |58 | Checkered Garter Snake            | Sonoita, Arizona                             | Garter Snakes                 | 2024           |
+|59 | Painted Galapagos Racer           | Santa Cruz, Galapagos Islands, Ecuador       | Racers                        | 2025           |
 
 ***
 
